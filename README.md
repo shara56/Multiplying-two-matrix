@@ -1,7 +1,7 @@
-# Multiplying-two-array
+# Multiplying-two-matrix
 
 ## AIM:
-To multiply two arrays
+Write a python program to multiply-two-matrix to display the product of the two array.
 
 ## ALGORITHM:
 
